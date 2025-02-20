@@ -16,7 +16,9 @@
 Welcome to my **AI-ML Portfolio**, where I showcase my journey in **Data Science, Machine Learning, and Artificial Intelligence**. This repository includes my projects, research, and contributions to the AI ecosystem.  
 
 🔹 **Skills Covered:** Python, Data Analysis, ML/DL, AI Model Training & Deployment  
+
 🔹 **Frameworks & Tools:** TensorFlow, PyTorch, Scikit-Learn, Pandas, NumPy, SQL.
+
 🔹 **Areas of Interest:** NLP, Computer Vision, Predictive Analytics  
 
 ---
@@ -44,7 +46,7 @@ Welcome to my **AI-ML Portfolio**, where I showcase my journey in **Data Science
 ---
 
 ## 🚀 **Connect with Me**
-🌐 **LinkedIn:**www.linkedin.com/in/moinuddin-navalur8147#
+🌐   LinkedIn:www.linkedin.com/in/moinuddin-navalur8147#
 📧 **Email:** moinuddinnavalur6@gmail.com
  
 ---
