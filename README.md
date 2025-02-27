@@ -25,13 +25,8 @@ Welcome to my **AI-ML Portfolio**, where I showcase my journey in **Data Science
 ## 📂 **Projects Overview**
 | 🚀 Project Name | 🔍 Description | 🛠 Tech Stack |
 |---------------|-------------|-------------|
-| **1. AI-Powered Chatbot** | Developed a chatbot using NLP & Deep Learning. | `Python`, `TensorFlow`, `NLTK`, `Flask` |
-| **2. Customer Churn Prediction** | Built an ML model to predict customer churn. | `Scikit-Learn`, `Pandas`, `Matplotlib` |
-| **3. House Price Prediction** | Regression model for real estate pricing. | `XGBoost`, `Sklearn`, `Streamlit` |
-| **4. Image Classification with CNN** | Trained a CNN to classify images. | `PyTorch`, `OpenCV`, `TensorFlow` |
-| **5. SQL Data Analysis** | Performed advanced SQL queries for data insights. | `MySQL`, `Pandas`, `Seaborn` |
+| **1.AI-Powered Q&A** | Developed a chatbot using Generative AI ,ML and NLP. | `Python`, `Streamlit`, `NLTK`, `Google Gemini AI` |
 
----
 
 ## 🛠 **Tech Stack & Tools**
 🔹 **Programming Languages:** Python, SQL.
